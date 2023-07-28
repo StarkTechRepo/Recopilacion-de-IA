@@ -111,6 +111,13 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 52. [bratgpt](https://bratgpt.com/): era una IA maquiavélica, cuyo único fin es destruir la tierra, dominar a la Humanidad y convertirse en inmortal.
 
+53. [altered](https://www.altered.ai/): es una aplicación de inteligencia artificial que permite cambiar la voz del usuario a cualquiera de las voces preseleccionadas o personalizadas.
+
+54. [copilot](https://github.com/features/copilot): es una herramienta de inteligencia artificial basada en la nube desarrollada por GitHub y OpenAI para ayudar y asistir a los usuarios de Visual Studio Code, Visual Studio, Neovim y los entornos de desarrollo integrado de JetBrains mediante el autocompletado de código.
+
+55. [notion](https://www.notion.so/product/ai): la IA de Notion resuma la información importante y procesable.
+
+
 ## Licencia
 
 Este repositorio se distribuye bajo la Licencia Creative Commons Attribution-NonCommercial 4.0 International ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es)).
