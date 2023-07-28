@@ -4,8 +4,7 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 ## Lista de Enlaces
 
-
-1. [deepdreamgenerator]([https://deepdreamgenerator.com)): es un generador de imágenes que utiliza algoritmos de aprendizaje profundo para crear imágenes únicas y originales.
+1. [kits]([https://www.kits.ai/)): Kits.AI es la primera plataforma de voz de IA que trabaja directamente con artistas para publicar oficialmente sus modelos de voz según sus condiciones. Empieza ya.
 
 2. [ArtBreeder](https://www.artbreeder.com/)): es una plataforma de creación de arte que utiliza redes neuronales para generar imágenes y videos.
 
