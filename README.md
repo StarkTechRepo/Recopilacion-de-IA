@@ -4,7 +4,7 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 ## Lista de Enlaces
 
-1. [Deep Dream Generator]([https://deepdreamgenerator.com/)): es un generador de imágenes que utiliza algoritmos de aprendizaje profundo para crear imágenes únicas y originales.
+1. [Deep Dream Generator]([https://deepdreamgenerator.com/): es un generador de imágenes que utiliza algoritmos de aprendizaje profundo para crear imágenes únicas y originales.
 
 2. [ArtBreeder](https://www.artbreeder.com/)): es una plataforma de creación de arte que utiliza redes neuronales para generar imágenes y videos.
 
