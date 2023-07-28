@@ -132,6 +132,10 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 63. [iahispano](https://iahispano.com/): La comunidad hispanohablante líder en Inteligencia Artificial aplicada a la música. Descubre las últimas tendencias, avances y proyectos relacionados con la
 
+## Contribuciones
+
+Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes enviar solicitudes de extracción para agregar nuevos enlaces, mejorar el repositorio existente o corregir problemas.
+
 ## Licencia
 
 Este repositorio se distribuye bajo la Licencia Creative Commons Attribution-NonCommercial 4.0 International ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es)).
