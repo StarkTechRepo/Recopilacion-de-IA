@@ -4,9 +4,8 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 ## Lista de Enlaces
 
-1. [kits]([https://www.kits.ai/)): es la primera plataforma de voz de IA que trabaja directamente con artistas para publicar oficialmente sus modelos de voz según sus condiciones. 
 
-2. [kits.ai](https://www.kits.ai/)): es la primera plataforma de voz de IA que trabaja directamente con artistas para publicar oficialmente sus modelos de voz según sus condiciones.
+1. [kits.ai](https://www.kits.ai/)): es la primera plataforma de voz de IA que trabaja directamente con artistas para publicar oficialmente sus modelos de voz según sus condiciones.
 
 2. [ArtBreeder](https://www.artbreeder.com/)): es una plataforma de creación de arte que utiliza redes neuronales para generar imágenes y videos.
 
