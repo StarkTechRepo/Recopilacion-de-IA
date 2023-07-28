@@ -134,4 +134,3 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 Este repositorio se distribuye bajo la Licencia Creative Commons Attribution-NonCommercial 4.0 International ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es)).
 
-Esperamos que el "Kit de Utilidades para Potenciar Windows.bat" sea útil para mejorar tu experiencia con Windows y facilitar la gestión de tu sistema operativo. ¡Disfruta y aprovecha al máximo estas herramientas!
