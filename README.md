@@ -117,6 +117,18 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 55. [notion](https://www.notion.so/product/ai): la IA de Notion resuma la información importante y procesable.
 
+56. [claude](https://claude.ai/login):Claude es un asistente de IA de nueva generación para sus tareas, sin importar la escala. 
+
+57. [Instant Neural Graphics](https://github.com/NVlabs/instant-ngp): es el entrenamiento casi instantáneo de primitivas gráficas neuronales en una sola GPU para múltiples tareas. En gigapixel image representamos una imagen mediante una primitiva neural.
+
+58. [pollinations](https://pollinations.ai/): es un generador de imágenes AI fácil de usar que funciona con Stable Diffusion. El sitio web cuenta con una sencilla interfaz de usuario para introducir sus indicaciones y generar.
+    
+59. [easywithai](https://easywithai.com/): es uno de los mayores directorios de herramientas de IA en Internet, con el simple objetivo de hacer que la IA sea más accesible para todos.
+
+60. [DeepFaceLab](https://github.com/iperov/DeepFaceLab): es una utilidad gráfica y de diseño que da la oportunidad de intercambiar caras de forma eficiente en cualquier imagen o vídeo.
+
+61. [vocalremover](https://vocalremover.media.io/): en voces separadas y pista instrumental. Perfecto para hacer pistas de acompañamiento de karaoke o extractor de acapellas
+
 
 ## Licencia
 
