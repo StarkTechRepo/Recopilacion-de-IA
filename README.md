@@ -4,59 +4,59 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 ## Lista de Enlaces
 
-1. [Deep Dream Generator](https://www.example.com): es un generador de imágenes que utiliza algoritmos de aprendizaje profundo para crear imágenes únicas y originales.
+1. [Deep Dream Generator]([https://deepdreamgenerator.com/)): es un generador de imágenes que utiliza algoritmos de aprendizaje profundo para crear imágenes únicas y originales.
 
-2. [ArtBreeder](https://www.example.com): es una plataforma de creación de arte que utiliza redes neuronales para generar imágenes y videos.
+2. [ArtBreeder](https://www.artbreeder.com/)): es una plataforma de creación de arte que utiliza redes neuronales para generar imágenes y videos.
 
-3. [RunwayML](https://www.example.com): es una plataforma de aprendizaje automático que permite crear y entrenar modelos de IA para generar imágenes y videos.
+3. [RunwayML](https://runwayml.com/)): es una plataforma de aprendizaje automático que permite crear y entrenar modelos de IA para generar imágenes y videos.
 
-4. [Ganbreeder](https://www.example.com): es una plataforma que utiliza redes generativas antagónicas (GAN) para generar imágenes y videos.
+4. [Ganbreeder](https://www.joelsimon.net/ganbreeder.html)): es una plataforma que utiliza redes generativas antagónicas (GAN) para generar imágenes y videos.
 
-5. [DALL-E](https://www.example.com): es un modelo de IA desarrollado por OpenAI que puede generar imágenes a partir de descripciones de texto.
+5. [DALL-E](https://openai.com/dall-e-2): es un modelo de IA desarrollado por OpenAI que puede generar imágenes a partir de descripciones de texto.
 
-6. [NVIDIA GauGAN](https://www.example.com): es un generador de imágenes que utiliza algoritmos de redes neuronales para transformar bocetos en imágenes realistas.
+6. [NVIDIA GauGAN](https://www.nvidia.com/es-la/research/ai-playground/): es un generador de imágenes que utiliza algoritmos de redes neuronales para transformar bocetos en imágenes realistas.
 
-7. [StyleGAN2](https://www.example.com): es un generador de imágenes que utiliza redes generativas antagónicas (GAN) para crear imágenes realistas de alta calidad.
+7. [StyleGAN2](https://nn.labml.ai/gan/stylegan/index.html): es un generador de imágenes que utiliza redes generativas antagónicas (GAN) para crear imágenes realistas de alta calidad.
 
-8. [Artisto](https://www.example.com): es una aplicación para dispositivos móviles que utiliza redes neuronales para transformar fotos en obras de arte en diferentes estilos.
+8. [labs.perplexity](https://labs.perplexity.ai/): es La herramienta de Perplexity para acceder directamente a Llama 2 de Meta.
 
-9. [Let's Enhance](https://www.example.com): es un servicio en línea que utiliza IA para mejorar la calidad de las imágenes.
+9. [Let's Enhance](https://letsenhance.io/): es un servicio en línea que utiliza IA para mejorar la calidad de las imágenes.
 
-10. [AI Painter](https://www.example.com): es una plataforma que utiliza redes neuronales para crear pinturas digitales a partir de imágenes.
+10. [AI Painter](https://art.aiseo.ai/): es una plataforma que utiliza redes neuronales para crear pinturas digitales a partir de imágenes.
 
-11. [DeepArt.io](https://www.example.com): es una plataforma que utiliza técnicas de aprendizaje profundo para transformar imágenes en obras de arte en diferentes estilos.
+11. [midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F): Midjourney es un laboratorio independiente de investigación y el nombre de un programa de inteligencia artificial con el cual sus usuarios pueden crear imágenes a partir de descripciones textuales, similar a Dall-e de OpenAI y al Stable Diffusion de código abierto
 
-12. [Unscreen](https://www.example.com): es una herramienta en línea que utiliza IA para eliminar el fondo de los vídeos y hacerlos transparentes.
+12. [Unscreen](https://www.unscreen.com/): es una herramienta en línea que utiliza IA para eliminar el fondo de los vídeos y hacerlos transparentes.
 
-13. [Remove.bg](https://www.example.com): es una herramienta que utiliza IA para eliminar el fondo de las imágenes y hacerlas transparentes.
+13. [Remove.bg](https://www.remove.bg/es): es una herramienta que utiliza IA para eliminar el fondo de las imágenes y hacerlas transparentes.
 
-14. [Pix2Pix](https://www.example.com): es un modelo de IA que utiliza redes generativas antagónicas (GAN) para transformar imágenes en diferentes estilos.
+14. [Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix?hl=es-419): es un modelo de IA que utiliza redes generativas antagónicas (GAN) para transformar imágenes en diferentes estilos.
 
-15. [NeuralStyler](https://www.example.com): es una aplicación que utiliza IA para transferir el estilo de una imagen a otra.
+15. [NeuralStyler](https://neuralstyler.com/): es una aplicación que utiliza IA para transferir el estilo de una imagen a otra.
 
-16. [AI Dungeon](https://www.example.com): es un juego de rol en línea que utiliza IA para generar historias y aventuras interactivas.
+16. [AI Dungeon](https://aidungeon.io/): es un juego de rol en línea que utiliza IA para generar historias y aventuras interactivas.
 
-17. [StyleMyPic](https://www.example.com): es una plataforma que utiliza IA para retocar y mejorar tus fotos, incluyendo la eliminación de arrugas y manchas en la piel.
+17. [StyleMyPic](https://www.stylemypic.com/): es una plataforma que utiliza IA para retocar y mejorar tus fotos, incluyendo la eliminación de arrugas y manchas en la piel.
 
-18. [VQGAN+CLIP](https://www.example.com): es un modelo de IA que utiliza redes neuronales para crear nuevas imágenes a partir de una descripción textual.
+18. [VQGAN+CLIP](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT): es un modelo de IA que utiliza redes neuronales para crear nuevas imágenes a partir de una descripción textual.
 
-19. [GANbreeder](https://www.example.com): es una plataforma que utiliza IA y redes generativas antagónicas (GAN) para crear imágenes a partir de la combinación de diferentes imágenes.
+19. [whisper](https://whisper.ai/): Whisper, la herramienta de inteligencia artificial de OpenAI para convertir archivos de audio a texto.
 
-20. [This Person Does Not Exist](https://www.example.com): es una web que utiliza IA para generar imágenes de personas que no existen.
+20. [This Person Does Not Exist](https://this-person-does-not-exist.com/en): es una web que utiliza IA para generar imágenes de personas que no existen.
 
-21. [Text to Image](https://www.example.com): es una herramienta en línea que utiliza IA para generar imágenes a partir de una descripción textual.
+21. [Text to Image](https://deepai.org/machine-learning-model/text2img): es una herramienta en línea que utiliza IA para generar imágenes a partir de una descripción textual.
 
-22. [Waifu Labs](https://www.example.com): es una plataforma que utiliza IA para generar personajes de anime a partir de una serie de parámetros personalizados.
+22. [Waifu Labs](https://waifulabs.com/): es una plataforma que utiliza IA para generar personajes de anime a partir de una serie de parámetros personalizados.
 
-23. [AI Dungeon](https://www.example.com): es un juego de rol en línea que utiliza IA para generar historias y aventuras interactivas.
+23. [character](https://beta.character.ai/): Character.ai es una aplicación web de chatbot de modelo de lenguaje neuronal que puede generar respuestas de texto similares a las humanas y participar en conversaciones contextuales.
 
-24. [Artisto](https://www.example.com): es una aplicación móvil que utiliza IA para transformar tus fotos en obras de arte en diferentes estilos.
+24. [happyscribe](https://www.happyscribe.com/): es Happy Scribe convierten audio en texto con una precisión del 85-99%.
 
-25. [NeuralStyler](https://www.example.com): es una herramienta en línea que utiliza IA para aplicar diferentes estilos de arte a tus fotos.
+25. [deviantart](https://www.deviantart.com/): DeviantArt o DA, es un sitio web estadounidense que agrupa a una comunidad internacional de artistas en la red.
 
-26. [My Heritage](https://www.example.com): es una aplicación que utiliza IA para animar tus antiguas fotos en blanco y negro y agregarles color.
+26. [fakeyou](https://fakeyou.com/): es una herramienta de síntesis de voz única que ha revolucionado el mundo del contenido de medios.
 
-27. [Remove.bg](https://www.example.com): es una herramienta en línea que utiliza IA para eliminar el fondo de tus fotos y dejar solo el sujeto principal.
+27. [bard](https://bard.google.com/?hl=en)):es un bot conversacional de inteligencia artificial desarrollado por Google basado en la familia LaMDA.​ Se desarrolló como respuesta directa al auge de ChatGPT de OpenAI. 
 
 28. [TensorFlow](https://www.tensorflow.org/): Es un framework de aprendizaje automático open source desarrollado por Google. La página oficial de TensorFlow ofrece documentación, tutoriales y recursos para aquellos interesados en aprender más sobre el tema.
 
