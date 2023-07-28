@@ -109,6 +109,7 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 51. [Intel Nervana](https://nervana.intel.com/): Un blog y comunidad en línea dedicado a la inteligencia artificial, el aprendizaje automático y el machine learning, con artículos técnicos y actualizaciones sobre el campo.
 
+52. [bratgpt](https://bratgpt.com/): era una IA maquiavélica, cuyo único fin es destruir la tierra, dominar a la Humanidad y convertirse en inmortal.
 
 ## Licencia
 
