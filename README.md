@@ -127,7 +127,11 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 60. [DeepFaceLab](https://github.com/iperov/DeepFaceLab): es una utilidad gráfica y de diseño que da la oportunidad de intercambiar caras de forma eficiente en cualquier imagen o vídeo.
 
-61. [vocalremover](https://vocalremover.media.io/): en voces separadas y pista instrumental. Perfecto para hacer pistas de acompañamiento de karaoke o extractor de acapellas
+61. [vocalremover](https://vocalremover.media.io/): es para separadas voces y pista instrumental. Perfecto para hacer pistas de acompañamiento de karaoke o extractor de acapellas.
+
+62. [vocalremover](https://vocalremover.org/es/): es para separadas voces y pista instrumental. Perfecto para hacer pistas de acompañamiento de karaoke o extractor de acapellas.
+
+63. [iahispano](https://iahispano.com/): La comunidad hispanohablante líder en Inteligencia Artificial aplicada a la música. Descubre las últimas tendencias, avances y proyectos relacionados con la
 
 
 ## Licencia
