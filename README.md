@@ -132,7 +132,9 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 62. [vocalremover](https://vocalremover.org/es/): es para separadas voces y pista instrumental. Perfecto para hacer pistas de acompañamiento de karaoke o extractor de acapellas.
 
-63. [iahispano](https://iahispano.com/): La comunidad hispanohablante líder en Inteligencia Artificial aplicada a la música. Descubre las últimas tendencias, avances y proyectos relacionados con la
+63. [iahispano](https://iahispano.com/): La comunidad hispanohablante líder en Inteligencia Artificial aplicada a la música. Descubre las últimas tendencias.
+
+64. [Adobe Firefly](https://www.adobe.com/ar/sensei/generative-ai/firefly.html):  es la nueva familia de modelos creativos de IA generativa que llegará a los productos de Adobe.
 
 ## Contribuciones
 
