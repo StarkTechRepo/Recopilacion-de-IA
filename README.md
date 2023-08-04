@@ -138,7 +138,11 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 64. [Adobe Firefly](https://www.adobe.com/ar/sensei/generative-ai/firefly.html):  es la nueva familia de modelos creativos de IA generativa que llegará a los productos de Adobe.
 
-## Contribuciones
+65. [Stable Diffusion XL](https://stability.ai/stablediffusion):  es un modelo de aprendizaje automático desarrollado por Runway y LMU Múnich​para generar imágenes digitales de alta calidad a partir de descripciones en lenguaje natural o estímulos.
+
+* Prueba Stable Diffusion XL gratis en Colab: [sitio web:](https://colab.research.google.com/github/Stability-AI/StableSwarmUI/blob/master/colab/colab-notebook.ipynb)
+* Instala Stable Diffusion en tú ordenador: [sitio web:](https://aituts.com/sdxl/)
+* Prueba Stable Diffusion XL online: [sitio web:](https://clipdrop.co/stable-diffusion?output=true/)
 
 Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes enviar solicitudes de extracción para agregar nuevos enlaces, mejorar el repositorio existente o corregir problemas.
 
