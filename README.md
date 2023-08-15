@@ -144,6 +144,9 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 * Instala Stable Diffusion en tú ordenador: [sitio web:](https://aituts.com/sdxl/)
 * Prueba Stable Diffusion XL online: [sitio web:](https://clipdrop.co/stable-diffusion?output=true/)
 
+65. [notable-people](https://tjukanovt.github.io/notable-people):  es un mapa interactivo que contiene los datos de 2,29 millones de personas importantes y celebridades de todo tipo en un periodo de tiempo que abarca desde el año 3.500 antes de Cristo hasta 2018.
+
+
 Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes enviar solicitudes de extracción para agregar nuevos enlaces, mejorar el repositorio existente o corregir problemas.
 
 ## Licencia
