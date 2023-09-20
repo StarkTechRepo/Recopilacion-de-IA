@@ -6,6 +6,8 @@ El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cu
 
 ## Lista de Enlaces
 
+A. [kits.ai](https://aifindy.com/todas-las-categorias)): Es una Base de datos de IA y buscador de aplicaciones y software de inteligencia artificial. Puedes buscar y filtrar cualquier aplicación IA por categoría y precio.
+
 0. [Miniserie Control Z](https://www.youtube.com/playlist?list=PL1hLvXWwzy1XtscfN80i09Wfv89bHQibr)): Miniserie documental que narra seis posibles futuros distópicos que amenazan a la humanidad y cómo deshacerlos antes de que ocurran. Una visión basada en datos reales y realizada con el testimonio de científicos, ingenieros, militares, analistas y expertos internacionales.
 
 1. [kits.ai](https://www.kits.ai/)): es la primera plataforma de voz de IA que trabaja directamente con artistas para publicar oficialmente sus modelos de voz según sus condiciones.
