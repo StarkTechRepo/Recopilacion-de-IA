@@ -145,6 +145,47 @@ A. [Base de datos de IA(aifindy)](https://aifindy.com/todas-las-categorias)): Es
 * Prueba Stable Diffusion XL online: [sitio web:](https://clipdrop.co/stable-diffusion?output=true/)
 
 
+66. [CleanUp Pictures](https://cleanup.pictures/): CleanUp Pictures es una plataforma innovadora diseñada para mejorar y optimizar imágenes digitales. Con herramientas avanzadas de procesamiento de imágenes, permite a los usuarios limpiar y mejorar la calidad de sus imágenes, haciéndolas lucir lo mejor posible.
+
+67. [Hugging Face DALL·E Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini): DALL·E Mini de Hugging Face es un modelo de IA especializado en generar imágenes a partir de descripciones de texto. Aprovecha el poder del entendimiento del lenguaje natural para crear representaciones visuales impresionantes basadas en entrada textual.
+
+68. [Descript](https://www.descript.com/): Descript es una plataforma versátil para la edición de audio y video que utiliza la IA para transcripción y edición. Simplifica el proceso de creación de contenido, facilitando la edición y mejora de contenido multimedia.
+
+69. [DoNotPay](https://donotpay.com/): DoNotPay es un asistente legal impulsado por IA que ayuda a los usuarios con diversos problemas legales. Desde impugnar multas de estacionamiento hasta brindar asesoramiento legal, esta plataforma simplifica procesos legales complejos.
+
+70. [Vocal Remover](https://vocalremover.org/es/) y [Vocal Remover Media.io](https://vocalremover.media.io/): Estas herramientas en línea utilizan la IA para eliminar voces de pistas de audio. Ya sea que seas un entusiasta de la música o un creador de contenido, estas utilidades son útiles para remezclar y editar archivos de audio.
+
+71. [FakeYou](https://fakeyou.com/): FakeYou es una plataforma que utiliza la IA para generar identidades y datos personales sintéticos. Puede ser útil para pruebas y desarrollo, así como para proteger tu privacidad en línea.
+
+72. [Fliki AI](https://fliki.ai/): Fliki AI es una plataforma impulsada por IA que ofrece diversas características de edición y mejora de imágenes. Puede ser un recurso valioso para fotógrafos y diseñadores que deseen mejorar sus visuales.
+
+73. [Leonardo AI](https://leonardo.ai/): Leonardo AI es una plataforma creativa de IA que se especializa en generar arte y diseño. Empodera a artistas y diseñadores al proporcionar contenido generado por IA para inspiración y colaboración.
+
+74. [Merlin AI](https://merlin.ai/): Merlin AI es una plataforma impulsada por IA que ofrece soluciones de gestión de proyectos y automatización. Ayuda a las empresas a optimizar sus procesos y tomar decisiones basadas en datos.
+
+75. [Midjourney](https://www.midjourney.com/): Midjourney es una empresa centrada en soluciones impulsadas por IA para diversas industrias. Ofrecen productos y servicios de IA innovadores para mejorar la productividad y eficiencia.
+
+76. [Neiro AI](https://neiro.ai/): Neiro AI es una plataforma que se especializa en desarrollar soluciones de IA para empresas. Sus servicios incluyen consultoría de IA, desarrollo e implementación para ayudar a las empresas a aprovechar el poder de la inteligencia artificial.
+
+77. [SeaArt AI](https://www.seaart.ai/): SeaArt AI es una plataforma creativa de IA que produce arte y diseños utilizando algoritmos avanzados de IA. Es una fuente de inspiración para artistas y diseñadores que buscan explorar nuevas posibilidades creativas.
+
+78. [Synthesia](https://www.synthesia.io/): Synthesia es una plataforma de generación de videos impulsada por IA. Permite a los usuarios crear videos de aspecto profesional con avatares generados por IA, facilitando la creación de contenido de video.
+
+79. [Tome](https://tome.app/): Tome es una plataforma impulsada por IA que ayuda a los usuarios a organizar y gestionar su vida digital. Ofrece funciones como toma de notas, gestión de tareas y organización de documentos, lo que la convierte en una herramienta valiosa para la productividad.
+
+80. [Google Bard Chat](https://bard.google.com/chat?hl=es): Google Bard Chat es una plataforma de chat impulsada por IA que utiliza el procesamiento del lenguaje natural para participar en conversaciones con los usuarios. Puede utilizarse para diversas aplicaciones, desde responder preguntas hasta proporcionar información.
+
+81. [Vall-E Pro](https://vall-e.pro/): Vall-E Pro es una plataforma de IA especializada en análisis y reconocimiento de contenido visual. Ofrece soluciones para el análisis de imágenes y videos, siendo útil en industrias como la seguridad y la moderación de contenido.
+
+82. [MyHeritage](https://www.myheritage.es/): MyHeritage es una plataforma de genealogía que utiliza la IA para ayudar a los usuarios a rastrear su historia familiar y construir su árbol genealógico. Es un recurso valioso para aquellos interesados en la investigación genealógica.
+
+83. [Repositorio de GitHub Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Este repositorio de GitHub alberga un proyecto de código abierto para la clonación de voz en tiempo real. Permite a los usuarios clonar voces para diversas aplicaciones, incluyendo locuciones y asistentes de voz.
+
+84. [HeyGen](https://www.heygen.com/): HeyGen es una plataforma impulsada por IA que ofrece una variedad de herramientas creativas, desde generación de imágenes hasta arte basado en texto. Es un espacio de juego para aquellos que deseen explorar el lado artístico de la inteligencia artificial.
+
+85. [TheresANAIForThat - Interior AI](https://theresanaiforthat.com/ai/interior-ai/): Interior AI de TheresANAIForThat es una herramienta de IA especializada en diseño de interiores. Ayuda a los usuarios a visualizar y planificar espacios interiores, facilitando la toma de decisiones de diseño informadas.
+
+
 Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes enviar solicitudes de extracción para agregar nuevos enlaces, mejorar el repositorio existente o corregir problemas.
 
 ## Licencia
