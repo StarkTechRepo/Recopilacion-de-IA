@@ -1,7 +1,5 @@
 # Recopilación Interesante de Enlaces de IA
 
-![Windows Image](path/to/your/image.png)
-
 El repositorio "Recopilación Interesante de Enlaces de IA" es una selección cuidadosa de enlaces sobre inteligencia artificial (IA). Esta recopilación abarca una variedad de temas emocionantes relacionados con la IA, incluyendo tutoriales, investigaciones y proyectos inspiradores. Los enlaces proporcionados son recursos de alta calidad, elegidos para enriquecer el conocimiento de la comunidad sobre el fascinante mundo de la IA. Cabe mencionar que los usuarios deben evaluar la confiabilidad de los contenidos antes de utilizarlos en sus propios proyectos de IA. ¡Explora y descubre el asombroso potencial de la IA con esta recopilación de enlaces interesantes!
 
 ## Lista de Enlaces
