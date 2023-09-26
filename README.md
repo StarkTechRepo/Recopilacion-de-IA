@@ -78,7 +78,7 @@ A. [Base de datos de IA(aifindy)](https://aifindy.com/todas-las-categorias)): Es
 
 35. [Stanford CS229](https://cs229.stanford.edu/): Es un curso universitario gratuito sobre inteligencia artificial y deep learning, ofrecido por la Universidad de Stanford. La página oficial del curso ofrece material de lectura, videos de clase y proyectos.
 
-35. [TensorFlow](https://www.tensorflow.org/): Es un framework de aprendizaje automático open source desarrollado por Google. La página oficial de TensorFlow ofrece documentación, tutoriales y recursos para aquellos interesados en aprender más sobre el tema.
+35. [notable-people](https://tjukanovt.github.io/notable-people):  es un mapa interactivo que contiene los datos de 2,29 millones de personas importantes y celebridades de todo tipo en un periodo de tiempo que abarca desde el año 3.500 antes de Cristo hasta 2018.
 
 36. [PyTorch](https://pytorch.org/): Es otro framework de aprendizaje automático popular, desarrollado por Facebook. La página oficial de PyTorch ofrece documentación, tutoriales y recursos para aquellos interesados en aprender más sobre el tema.
 
@@ -143,8 +143,6 @@ A. [Base de datos de IA(aifindy)](https://aifindy.com/todas-las-categorias)): Es
 * Prueba Stable Diffusion XL gratis en Colab: [sitio web:](https://colab.research.google.com/github/Stability-AI/StableSwarmUI/blob/master/colab/colab-notebook.ipynb)
 * Instala Stable Diffusion en tú ordenador: [sitio web:](https://aituts.com/sdxl/)
 * Prueba Stable Diffusion XL online: [sitio web:](https://clipdrop.co/stable-diffusion?output=true/)
-
-65. [notable-people](https://tjukanovt.github.io/notable-people):  es un mapa interactivo que contiene los datos de 2,29 millones de personas importantes y celebridades de todo tipo en un periodo de tiempo que abarca desde el año 3.500 antes de Cristo hasta 2018.
 
 
 Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes enviar solicitudes de extracción para agregar nuevos enlaces, mejorar el repositorio existente o corregir problemas.
